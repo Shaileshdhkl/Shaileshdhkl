@@ -1,6 +1,6 @@
 # Shailesh Dhakal
 
-Electrical Engineering Student | Controls & Automation | Embedded Systems
+Electrical Engineering Student | Controls & Automation | Embedded Systems | Power Systems
 
 I am pursuing a Bachelor of Science in Electrical Engineering at the University of South Florida, with expected graduation in May 2028. My interests include industrial automation, control systems, embedded systems, and hardware integration.
 
